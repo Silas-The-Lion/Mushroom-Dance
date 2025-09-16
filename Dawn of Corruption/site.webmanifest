@@ -3,7 +3,7 @@
     "short_name": "Dawn of Corruption",
     "icons": [
         {
-            "src": "https://aidungeon.com/192x192.png",
+            "src": "https://raw.githubusercontent.com/Silas-The-Lion/Mushroom-Dance/c6fd284e87663f1934cee56bcf9313950303b3ce/Dawn%20of%20Corruption/192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         }
